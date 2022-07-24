@@ -1,11 +1,12 @@
 ---
 title:  "Passing Local Enviornment Variables through Docker"
-image:  /assets/images/blog_posts/remote_ssh_open_config.png
+image:  /assets/images/blog_posts/docker_logo.png
 author: Ram Balachandran
 # comments: false
 # date:   2020-08-23 08:30:00 +0530
 categories:
-    - DevOps 
+    - DevOps
+    - Docker
 layout: post
 ---
 
