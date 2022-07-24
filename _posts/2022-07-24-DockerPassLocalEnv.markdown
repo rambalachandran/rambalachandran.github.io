@@ -1,5 +1,5 @@
 ---
-title:  "Passing Local Enviornment Variables through Docker"
+title:  "Passing Local Enviornment Variables to Docker Build Process and Containers"
 image:  /assets/images/blog_posts/docker_logo.png
 author: Ram Balachandran
 # comments: false
