@@ -1,6 +1,6 @@
 ---
 title:  "Git Pre-Commit Hooks for Linting and Styling SQL Codes"
-image:  /assets/images/blog_posts/docker_logo.png
+image:  /assets/images/blog_posts/git_precommit_hook_lint.png
 author: Ram Balachandran
 # comments: false
 # date:   2020-08-23 08:30:00 +0530
